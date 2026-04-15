@@ -20,7 +20,7 @@ insert visuals here
 
 ## Loyalty Program Performance 
 - Initial adoption for the loyalty program was very slow, generating just $0.4M in 2019.
-- However, in the following years the loyalty program picks up speed and grows from 2,005 in 2019 to 11,107 in 2022 while non-loyalty order count declined. As of 2022 the loyalty program's AOV has increased by 18% and has generated $2.7M dollars in revenue.
+- However, in the following years the loyalty program picks up speed and grows from 2,005 members in 2019 to 11,107 in 2022 while non-loyalty order count declined. As of 2022 the loyalty program's AOV has increased by 18% and has generated $2.7M dollars in revenue.
 - It was able to hold onto and sustain growth from the pandemic boom and shows strong signs of long-term growth despite its slow start.
 
 ## Apple Product Health 
@@ -35,3 +35,8 @@ insert visuals here
 - Utilize effective marketing strategies during back-to-school and holiday seasons as these have historically been our most lucrative seasons.
 
 # Monthly and Yearly Sales Trends
+## Yearly Overview:
+- In 2019 the business sold 16,850 units with an average order value (AOV) of $229, generating approximately $3.9M. As a result of pandemic-related shifts in consumer behavior, 2020 generated $10.1M and 2021 generated $9.1M. 
+- This surge in revenue can be attritbuted to two key factors; units sold and AOV. Both 2020 and 2021, more than 2X the units sold (33,851 | 35,858). AOV shot up 31% to $300 in 2020, and 10.9% to $254 in 2021. In 2020 the business saw a gradual increase across the board in terms of AOV and units sold.
+- In 2021 the business sold 2007 more units than in 2020, but due to a decrease in AOV the revenue generated was approximately $1M less than in 2020. This is also where we begin to see the initial pandemic-boom start to slightly taper off with units sold and AOV both gradually decreasing. Despite that, performance was still extremely strong.
+- Early into 2022 we see similar performance to 2021. However, this quickly fades away and we see a substantial decrease in units sold and AOV. The year ended with a total 21,565 orders, and an AOV of $229, the same AOV 2019 held. The overall decrease is due to normalized shopping behavior post pandemic and a major sales anomaly during the holiday season.
