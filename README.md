@@ -61,3 +61,15 @@ insert visuals here
 - In Q.4 (typically the most successful period) an unexpected deviation from usual sales trends occurs and we see our weakest quarter across all years in terms of units sold, and AOV. Hence, being our weakest quarter in terms of revenue even being outperformed by 2019 in all KPI's.
 - Comapred to 2021 average monthly revenue decreases -45% ($758K-> $408K), AOV decreases -9.8% ($254->$229) matching 2019's AOV
 - An overall -46% decrease in total revenue ($9.1M -> $4.9M).
+
+# Loyalty Program Performance 
+
+- The loyalty program was first introduced in 2019. Out of the 100k+ transactions since, 42% were done by loyalty program users and 58% were done by non loyalty program customers. For a company of our size the industry standard of loyalty program participation is 25-50% (https://www.alexanderjarvis.com/what-is-loyalty-program-participation-rate-in-ecommerce/). Positioning us in the upper range of industry benchmarks.
+- Initial adoption for the loyalty program was very slow, with a total of 2005 orders and $0.4M in revenue. These numbers drastically improve (pandemic-driven) in 2021, with AOV increasing 9.6% and revenue generated being close to $3M. A $2.6M increase.
+- An interesting trend emerges in 2021, and the loyalty program begins to differentiate from the non loyalty program. The loyalty program held onto those initial gains from 2020 and built on top of it, outperforming the nonloyalty program. Revenue increased from approximately $3M in 2020 to $4.8M in 2021. Where as the non loyalty programs revenue decreased from $7.1M in 2020 to $4.2M in 2021.
+- The performance in 2022 is where the value of the loyalty program can most accurately be highlighted. Revenue grew from $0.4M in 2019 to $2.7M in 2022, AOV also increased by 18% ($207 -> $244). On the other hand, the non loyalty program saw a -8% decrease in AOV and revenue dropped from $3.4M in 2019 to $2.2M in 2022.
+- The loyalty program was able to hold onto and sustain some of the growth from the pandemic-boom, whereas the non loyalty program saw a hard decline. The loyalty program is showing strong potential for long term growth and despite its slow start has proven it’s a valuable asset for long terms gains in the company.
+- The loyalty program outperformed the non loyalty program in units sold and revenue generated in 2021 and by AOV, units sold, and revenue generated in 2022.
+
+
+
