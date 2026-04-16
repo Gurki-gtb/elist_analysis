@@ -9,8 +9,10 @@ End to end sales trend analysis for E-commerce company.
 
 
 
-
+<p align="center">
 # Executive Summary 
+</p>
+
 insert visuals here 
 
 ## Overall Performance  
