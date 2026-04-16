@@ -37,8 +37,8 @@ insert visuals here
 # Monthly and Yearly Sales Trends
 ## Yearly Overview:
 - In 2019 the business sold 16,850 units with an average order value (AOV) of $229, generating approximately $3.9M. As a result of pandemic-related shifts in consumer behavior, 2020 generated $10.1M and 2021 generated $9.1M. 
-- This surge in revenue can be attritbuted to two key factors; units sold and AOV. Both 2020 and 2021, more than 2X the units sold (33,851 | 35,858). AOV shot up 31% to $300 in 2020, and 10.9% to $254 in 2021. In 2020 the business saw a gradual increase across the board in terms of AOV and units sold.
-- In 2021 the business sold 2007 more units than in 2020, but due to a decrease in AOV the revenue generated was approximately $1M less than in 2020. This is also where we begin to see the initial pandemic-boom start to slightly taper off with units sold and AOV both gradually decreasing. Despite that, performance was still extremely strong.
+- This surge in revenue can be attritbuted to two key factors; units sold and AOV. Both 2020 and 2021, more than 2X the units sold (33,851 | 35,858). AOV shot up 31% to $300 in 2020, and 10.9% to $254 in 2021. In 2020 the business saw a significant increase across the board in terms of AOV and units sold.
+- In 2021 the business sold around 2,000 more units than in 2020, but due to a decrease in AOV the revenue generated was approximately $1M less than in 2020. This is also where we begin to see the initial pandemic-boom start to slightly taper off with units sold and AOV both gradually decreasing. Despite that, performance was still extremely strong.
 - Early into 2022 we see similar performance to 2021. However, this quickly fades away and we see a substantial decrease in units sold and AOV. The year ended with a total 21,565 orders, and an AOV of $229, the same AOV 2019 held. The overall decrease is due to normalized shopping behavior post pandemic and a major sales anomaly during the holiday season.
 ## 2019: Monthly Basline
 - 2019 serves as a baseline year, reflecting typical business performance, as there are no external disruptions such as the pandemic or post-pandemic effects.
@@ -48,11 +48,10 @@ insert visuals here
 ## 2020: Covid - Driven Inflection Point 
 - Jan and Feb of 2020 follow the usual e-commerce flow with units sold dropping (post-holiday).
 - March (pandemic hits) and a surge in all KPI's occurrs, with a continous upwards trends month to month in AOV, order count, and revenue.
-- 100.8% increase in average units sold (1,404 -> 2,820), 30% increase in AOV ($229 -> $300), and a 162% in average monthly revenue ($322K -> $845k).
+- 100.8% increase in average units sold (1,404 -> 2,820), 30% increase in AOV ($229 -> $300), and a 162% increase in average monthly revenue ($322K -> $845k).
 - We see our first $1M dollar months in Sept and Dec where a combination of the pandemic with back to school and holiday shopping cause these ultra successful months.
-- Orders peaked at 4,109 units and AOV peaked at $321. The continous upwards trend throughout the year resulted in a total of $10.1M, an efficacious year.
+- Orders peaked at 4,109 units and AOV peaked at $321. The continous upwards trend throughout the year resulted in a total of $10.1M, a record breaking year.
 ## 2021: Normalization Period
-- The momentum of 2020 carries over into early 2021 with Jan also generating a little over $1M. However, we see a significant drop in the following months where the revenue range falls between $640K - $760K.
-- Except for Sept and Dec where revenue surpasses $800K due to a surge in units sold.
+- The momentum of 2020 carries over into early 2021 with Jan also generating a little over $1M. However, we see a significant drop in the following months where the revenue range falls between $640K - $760K. Except for Sept and Dec where revenue surpasses $800K due to a surge in units sold.
 - 2021 outsold 2020 by approximately 2,000 units (33,851 -> 35,858). Despite that, less revenue was generated due to a -15.33% decrease in AOV ($254).
-- Overall, 2021 generated $9.1M, a 10% decrease from 2020. With Q3 and Q4, yet again being the most successful quarters. Although overall performance decreased, 2021 was a very successful year.
+- Overall, 2021 generated $9.1M, a 10% decrease from 2020. With Q3 and Q4, yet again being the most successful quarters. Although overall performance decreased, 2021 was a very strong year.
