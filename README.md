@@ -71,5 +71,11 @@ insert visuals here
 - The loyalty program was able to hold onto and sustain some of the growth from the pandemic-boom, whereas the non loyalty program saw a hard decline. The loyalty program is showing strong potential for long term growth and despite its slow start has proven it’s a valuable asset for long terms gains in the company.
 - The loyalty program outperformed the non loyalty program in units sold and revenue generated in 2021 and by AOV, units sold, and revenue generated in 2022.
 
+# Apple Health Product Performance 
 
-
+- Due to data limitations this analysis was only able to be conducted using data from 2019-2021.
+- As of 2022, we have three apple products in our catalouge; Airpods, Iphone, and the Macbook Air. The Macbook Air is the most expensive product hailing an AOV of $1,588, followed by the Iphone with an AOV of $740, and then the airpods with an AOV of $160.
+- Combined order count of all three products is 52,654, and after refunded orders the total drops to 49,543 a - 6% decrease. Of these orders the airpods account for 92%, the Macbook Air 7%, and the Iphone 0.54%.
+- Airpods are the top-selling product across both the Apple catalog and the overall catalog, having an order count of 48,402 orders - a little more than double the order volume of the next best selling product. It also has a refund rate of 5.45%, the lowest amongst all apple products.
+- The Macbook Air is the second-best selling product in the Apple Catalog, with 3,964 orders. It has the highest refund rate at 11.43%. However, over the years it's refund rate has decreased exponentially. In 2019 it held a refund rate of 18.31%, and in 2021 6.33% - a 12% decrease.
+- 
