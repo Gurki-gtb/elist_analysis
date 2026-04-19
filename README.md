@@ -19,10 +19,36 @@ insert visuals here
 
 # Monthly and Yearly Sales Trends
 ## Yearly Overview:
-- In 2019 the business sold 16,850 units with an average order value (AOV) of $229, generating approximately $3.9M. As a result of pandemic-related shifts in consumer behavior, 2020 generated $10.1M and 2021 generated $9.1M. 
-- This surge in revenue can be attritbuted to two key factors; units sold and AOV. Both 2020 and 2021, more than 2X the units sold (33,851 | 35,858). AOV shot up 31% to $300 in 2020, and 10.9% to $254 in 2021. In 2020 the business saw a significant increase across the board in terms of AOV and units sold.
-- In 2021 the business sold around 2,000 more units than in 2020, but due to a decrease in AOV the revenue generated was approximately $1M less than in 2020. This is also where we begin to see the initial pandemic-boom start to slightly taper off with units sold and AOV both gradually decreasing. Despite that, performance was still extremely strong.
-- Early into 2022 we see similar performance to 2021. However, this quickly fades away and we see a substantial decrease in units sold and AOV. The year ended with a total 21,565 orders, and an AOV of $229, the same AOV 2019 held. The overall decrease is due to normalized shopping behavior post pandemic and a major sales anomaly during the holiday season.
+- In 2019, there was 16,850 orders with an (AOV) of $229, generating ~$3.8M. Due to pandemic-related shifts in consumer behavior, 2020 generated $10.1M and 2021 generated $9.1M. 
+
+-  2020 and 2021, 2X the units sold (33,851 | 35,858), with AOV increasing +31% ($300) in 2020, and +10.9% ($254) in 2021. AOV and units sold consistenly increased throughout 2020.
+
+- 2020 sold ~ 2000 more units than  2021 but, due to a decrease in AOV the revenue generated was ~$1M less than in 2020. 2020 is also where the initial pandemic-boom start to slightly taper off with units sold and AOV both gradually decreasing.
+
+- Early 2022 we see similar performance to 2021. Post-pandemic shopping behavior causes a substantial decrease in units sold and AOV. With a total 21,565 orders (-39%), and an AOV of $229 (-9.8%). With Q4 recording the lowest quarter-performance to date. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 2019: Quarterly Basline:
 - 2019 serves as a baseline year, reflecting typical business performance, as there are no external disruptions such as the pandemic or post-pandemic effects.
 - Q1 and Q2 we see consistent performance ($246K-$362K), with no significant spikes in sales, as these periods are not influenced by major retail events.
