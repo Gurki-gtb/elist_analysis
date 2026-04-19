@@ -25,50 +25,30 @@ insert visuals here
 
 - 2021 sold ~ 2000 more units than  2020, but due to a decrease in AOV revenue was ~$1M less than in 2020. 2021 is also where the initial pandemic-boom starts to taper off with units sold and AOV both gradually decreasing.
 
-- Early 2022 we see similar performance to 2021 which is short-lived and post-pandemic shopping behavior causes a substantial decrease in units sold and AOV. With a total 21,565 orders (-39%), AOV of $229 (-9.8%) comapred to 2021, and Q4 recording the lowest quarter performance to date. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Early 2022 we see similar performance to 2021 which is short-lived and post-pandemic shopping behavior causes a substantial decrease in units sold and AOV. With a total 21,565 orders (-39%), AOV of $229 (-9.8%) comapred to 2021, and Q4 recording the lowest quarter performance to date.
 
 ## 2019: Quarterly Basline:
 - 2019 serves as a baseline year, reflecting typical business performance, as there are no external disruptions such as the pandemic or post-pandemic effects.
-- Q1 and Q2 we see consistent performance ($246K-$362K), with no significant spikes in sales, as these periods are not influenced by major retail events.
-- In Q3 which is typically back to school season, we begin to see AOV and order count begin to increase. Hence, the monthly revenue range for Q3 increases to ($318K-$372K).
-- Finally, in Q4  AOV and order count peak, resulting in a revenue range of ($305K-$458K).
+- Q1 and Q2 we see consistent performance ($246K-$362K), with no significant spikes in sales.
+- In Q3 (back to school season), AOV and order count begin to increase. Increasing monthly revenue range to ($318K-$372K).
+- Q4  AOV and order count peak, resulting in a revenue range of ($305K-$458K).
 ## 2020: Covid - Driven Inflection Point:
-- Jan and Feb of 2020 follow the usual e-commerce flow with units sold dropping (post-holiday).
-- March (pandemic hits) and a surge in all KPI's occurs, with a continuous upwards trends month to month in AOV, order count, and revenue.
+- Q1 follows the usual e-commerce flow with units sold dropping (post-holiday).
+- March (pandemic hits) and quarter to quarter a continuous upwards trends occurs in AOV, order count, and revenue.
+- Sept and Dec both generate $1M+ (pandemic and seasonal increase).
 - 100.8% increase in average units sold (1,404 -> 2,820), 30% increase in AOV ($229 -> $300), and a 162% increase in average monthly revenue ($322K -> $845k).
-- We see our first $1M dollar months in Sept and Dec where a combination of the pandemic with back to school and holiday shopping cause these ultra successful months.
-- Orders peaked at 4,109 units and AOV peaked at $321. The continuous upwards trend throughout the year resulted in a total of $10.1M, a record breaking year.
+- The continuous upwards trend throughout the year resulted in a total of $10.1M, a record breaking year.
 ## 2021: Normalization Period:
-- The momentum of 2020 carries over into early 2021 with Jan also generating a little over $1M. However, we see a significant drop in the following months where the revenue range falls between $640K - $760K. Except for Sept and Dec where revenue surpasses $800K due to a surge in units sold.
-- 2021 outsold 2020 by approximately 2,000 units (33,851 -> 35,858). Despite that, less revenue was generated due to a -15.33% decrease in AOV ($254).
-- Overall, 2021 generated $9.1M, a 10% decrease from 2020. With Q3 and Q4, yet again being the most successful quarters. Although overall performance decreased, 2021 was a very strong year.
+- The momentum of 2020 carries over into early 2021 with Jan also generating $1M+.
+- In the following months a significant drop occurs. Revenue range falls between $640K - $760K.
+- Sept and Dec surpass $800K due to a surge in units sold.
+- 2021 outsold 2020 by ~2,000 units. Despite that, less revenue was generated due to a -15.33% decrease in AOV ($254).
+- Overall, 2021 generated $9.1M, a -10% decrease from 2020. 
 ## 2022: Post - Pandemic Decline and Weak Q.4 Performance:
-- This downward trend becomes more apparent across all KPI's. In a similar manner to last year, the momentum carries over and Jan of 2022 performs strongly ($700K) but, a significant fall off occurs in the following months.
-- Revenue drops by $232K in Feb, and from here the monthly revenue range falls into a range of ($397K - $509K).
-- In Q.4 (typically the most successful period) an unexpected deviation from usual sales trends occurs and we see our weakest quarter across all years in terms of units sold, and AOV. Hence, being our weakest quarter in terms of revenue even being outperformed by 2019 in all KPI's.
-- Comapred to 2021 average monthly revenue decreases -45% ($758K-> $408K), AOV decreases -9.8% ($254->$229) matching 2019's AOV
+- Again, the momentum carries over and Jan performs strongly ($700K).
+- However, revenue drops by $232K in Feb, and from here the monthly revenue range falls into a range of ($397K - $509K).
+- In Q.4 (typically the most successful period) we see our weakest quarter to date in terms of units sold, AOV, and revenue. 
+- Comapred to 2021 average monthly revenue decreases -45% ($758K-> $408K), AOV decreases -9.8% ($254->$229).
 - An overall -46% decrease in total revenue ($9.1M -> $4.9M).
 
 # Loyalty Program Performance 
