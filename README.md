@@ -23,9 +23,9 @@ insert visuals here
 
 -  2020 and 2021, 2X the units sold (33,851 | 35,858), with AOV increasing +31% ($300) in 2020, and +10.9% ($254) in 2021. AOV and units sold consistenly increased throughout 2020.
 
-- 2020 sold ~ 2000 more units than  2021 but, due to a decrease in AOV the revenue generated was ~$1M less than in 2020. 2020 is also where the initial pandemic-boom start to slightly taper off with units sold and AOV both gradually decreasing.
+- 2020 sold ~ 2000 more units than  2021, but due to a decrease in AOV revenue was ~$1M less than in 2020. 2020 is also where the initial pandemic-boom starts to taper off with units sold and AOV both gradually decreasing.
 
-- Early 2022 we see similar performance to 2021. Post-pandemic shopping behavior causes a substantial decrease in units sold and AOV. With a total 21,565 orders (-39%), and an AOV of $229 (-9.8%). With Q4 recording the lowest quarter-performance to date. 
+- Early 2022 we see similar performance to 2021 which is short-lived and post-pandemic shopping behavior causes a substantial decrease in units sold and AOV. With a total 21,565 orders (-39%), AOV of $229 (-9.8%), and Q4 recording the lowest quarter performance to date. 
 
 
 
