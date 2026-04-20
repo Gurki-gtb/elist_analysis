@@ -53,25 +53,26 @@ insert visuals here
 
 # Loyalty Program Performance 
 
-- The loyalty program was first introduced in 2019. Out of the 100k+ transactions since, 42% were done by loyalty program users and 58% were done by non loyalty program customers. For a company of our size the industry standard of loyalty program participation is 25-50% (https://www.alexanderjarvis.com/what-is-loyalty-program-participation-rate-in-ecommerce/). Positioning us in the upper range of industry benchmarks.
-- Initial adoption for the loyalty program was very slow, with a total of 2005 orders and $0.4M in revenue. These numbers drastically improve (pandemic-driven) in 2021, with AOV increasing 9.6% and revenue generated being close to $3M. A $2.6M increase.
-- An interesting trend emerges in 2021, and the loyalty program begins to differentiate from the non loyalty program. The loyalty program held onto those initial gains from 2020 and built on top of it, outperforming the nonloyalty program. Revenue increased from approximately $3M in 2020 to $4.8M in 2021. Where as the non loyalty programs revenue decreased from $7.1M in 2020 to $4.2M in 2021.
-- The performance in 2022 is where the value of the loyalty program can most accurately be highlighted. Revenue grew from $0.4M in 2019 to $2.7M in 2022, AOV also increased by 18% ($207 -> $244). On the other hand, the non loyalty program saw a -8% decrease in AOV and revenue dropped from $3.4M in 2019 to $2.2M in 2022.
-- The loyalty program was able to hold onto and sustain some of the growth from the pandemic-boom, whereas the non loyalty program saw a hard decline. The loyalty program is showing strong potential for long term growth and despite its slow start has proven it’s a valuable asset for long terms gains in the company.
-- The loyalty program outperformed the non loyalty program in units sold and revenue generated in 2021 and by AOV, units sold, and revenue generated in 2022.
-
+- For a company of our size the industry standard of loyalty program participation is 25-50% (https://www.alexanderjarvis.com/what-is-loyalty-program-participation-rate-in-ecommerce/). Positioning us in the upper range of industry benchmarks.
+- Out of the 100k+ transactions since 2019, 42% were done by loyalty program users and 58% were done by non loyalty program customers. 
+- Initial adoption for the loyalty program was very slow, with a total of 2005 orders and $0.4M in revenue.  
+- Revenue grew from $0.4M in 2019 to $2.7M in 2022, AOV also increased by 18% ($207 -> $244). On the other hand, the non loyalty program saw a -8% decrease in AOV and revenue dropped from $3.4M in 2019 to $2.2M in 2022.
+- In 2021, then loyalty program began to differentiate itself, growing revenue from $3M to $4.8M, while non loyalty revnue declined from $7.1M to $4.2M - the first year the loyalty program outperformed the non loyalty program.
+- The non loyalty program was outperformed in units sold and revenue generated in 2021 and by AOV, units sold, and revenue generated in 2022.
+- Overall, the loyalty program was able to hold onto and sustain some of the growth from the pandemic-boom, whereas the non loyalty program saw a hard decline. The loyalty program is showing strong potential for long term growth and despite its slow start has proven it’s a valuable asset for long terms gains in the company.
+  
 # Apple Health Product Performance 
 
 - Due to data limitations this analysis was only able to be conducted using data from 2019-2021.
-- As of 2022, we have three apple products in our catalog; Airpods, Iphone, and the Macbook Air. The Macbook Air is the most expensive product with an AOV of $1,588, followed by the Iphone with an AOV of $740, and then the airpods with an AOV of $160.
+- As of 2022, there are 3 apple products in the catalog; Airpods, Iphone, and the Macbook Air. The Macbook Air is the most expensive product with an AOV of $1,588, followed by the Iphone with an AOV of $740, and then the airpods with an AOV of $160.
 - Combined order count of all three products is 52,654, and after refunded orders the total drops to 49,543 a -6% decrease. Of these orders the airpods account for 92%, the Macbook Air 7%, and the Iphone 0.54%.
-- Airpods are the top-selling product across both the Apple catalog and the overall catalog, having an order count of 48,402 orders - a little more than double the order volume of the next best selling product. It also has a refund rate of 5.45%, the lowest amongst all apple products.
+- Airpods are the top-selling product in the Apple catalog and the overall catalog, having an order count of 48,402 orders. It also has a refund rate of 5.45%, the lowest amongst all apple products.
 - The Macbook Air is the second-best selling product in the Apple Catalog, with 3,964 orders. It has the highest refund rate at 11.43%. However, over the years its refund rate has decreased substantially. In 2019 it held a refund rate of 18.31%, and in 2021 6.33% - a 12 percentage point decrease. 
-- Despite being an extremely popular product the Iphone doesn't perform very well for the business. its the lowest selling product in the apple catalog and the second-lowest selling product in the overall catalog. Similarly to the Macbook Air, its refund rate has decreased over the years, 10.87% in 2019, and 5.26% in 2021. However, its order count is so low that it doesn't make much of an impact, suggesting our efforts should be placed elsewhere.
+- Despite being an extremely popular product the Iphone doesn't perform. Its the lowest selling product in the apple catalog and the second-lowest selling product in the overall catalog. Its refund rate has decreased over the years, 10.87% (2019) -> 5.26% (2021). However, its order count is so low that it doesn't make much of an impact, suggesting efforts should be placed elsewhere.
 - Overall, the apple catalog has generated $14.2M in total revenue. Making up 50% of the overall revenue the business has generated. Airpods account for $7.7M, Macbook Air for $6.2M and the Iphone for $0.2M.
-- There is a clear pattern here in terms of refund rate, the higher the ticket the item, the more likely it will be returned. As we climb up the ladder of Apple products and start seeing higher prices, the refund rate also begins to shoot up (5.45 (airpods) -> 7.64 (Iphone) -> 11.43 (Macbook)). This is due to customers having higher expectations for premium products and are more likely to return them when those expectations aren't met. 
-- The Iphone should be removed or replaced in the catalog. There is no real customer demand for this product from us and focusing this effort towards introducing a new apple product would be beneficial. If not introducing a new product, we could allocate the budget saved from the Iphone inventory to further market the Macbook Air. The Airpods already perform tremendously with low refund rates and a high order count. Yet, the Macbook having 44,438 fewer orders trails the Airpods by around $1.5M. With its decreasing refund rate and high AOV, the Macbook Air is in the right position to be further marketed to increase order count and potentially outpace the Airpods in terms of overall revenue.
-
+- In terms of refund rate, the higher the ticket the item, the more likely it will be returned. As we start seeing higher prices, the refund rate also begins to shoot up (5.45 (airpods) -> 7.64 (Iphone) -> 11.43 (Macbook)). This is due to customers having higher expectations for premium products making them more likely to return them when those expectations aren't met. 
+- The Iphone should be removed or replaced in the catalog. There is no real customer demand for this product from us and focusing this effort towards introducing a new apple product would be beneficial.
+  
 # Insights and Recommendations 
 
 ## Future Tasks
