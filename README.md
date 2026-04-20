@@ -18,9 +18,10 @@ insert visuals here
 - Apple products make up ~50% of the company's revenue, but the iPhone makes up < 1% of sales, indicating weak validation for further allocation in the catalog.        
 
 
-<h1 align="center"> Yearly/Quarterly Sales Trends </h1>
+<h1 align="center"> Yearly / Quarterly Sales Trends </h1>
 
-<h2 align = "center"> Yearly Overview: </h2>
+<h2 align = "center"> Overview: </h2>
+
 - In 2019, there was 16,850 orders with an (AOV) of $229, generating ~$3.8M. Due to pandemic-related shifts in consumer behavior, 2020 generated $10.1M and 2021 generated $9.1M. 
 
 - 2020 and 2021 both more than 2X the units sold (33,851 | 35,858) compared to 2019, with AOV increasing +31% ($300) in 2020, and +10.9% ($254) in 2021. AOV and units sold consistently increasing throughout 2020.
