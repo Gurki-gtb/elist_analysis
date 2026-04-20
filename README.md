@@ -101,7 +101,8 @@ insert visuals here
 <tr>
 
 <td width="50%" valign="top">
-    
+
+## Summary
 - The Macbook Air is the most expensive product with an AOV of $1,588, followed by the Iphone with an AOV of $740, and then the airpods with an AOV of $160.
 - Combined order count of all three products is 52,654, and after refunded orders the total drops to 49,543 a -6% decrease. Of these orders the airpods account for 92%, the Macbook Air 7%, and the Iphone 0.54%.
 - Airpods are the top-selling product, having an order count of 48,402 orders. It also has a refund rate of 5.45%, the lowest amongst all apple products.
