@@ -20,7 +20,8 @@ insert visuals here
 
 <h1 align="center"> Yearly / Quarterly Sales Trends </h1>
 
-
+INSERT VISUALS
+ 
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -67,6 +68,8 @@ insert visuals here
 - Positioning us in the upper range of industry benchmarks.
 <hr>
 
+INSERT VISUALS
+
 <table>
 <tr>
 
@@ -97,12 +100,14 @@ insert visuals here
 - As of 2022, there are 3 apple products in the catalog; Airpods, Iphone, and the Macbook Air.
 <hr>
 
+INSERT VISUALS
+
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## Summary
+## Summary:
 - The Macbook Air is the most expensive product with an AOV of $1,588, followed by the Iphone with an AOV of $740, and then the airpods with an AOV of $160.
 - Combined order count of all three products is 52,654, and after refunded orders the total drops to 49,543 a -6% decrease. Of these orders the airpods account for 92%, the Macbook Air 7%, and the Iphone 0.54%.
 - Airpods are the top-selling product, having an order count of 48,402 orders. It also has a refund rate of 5.45%, the lowest amongst all apple products.
@@ -112,7 +117,7 @@ insert visuals here
   
 
 
-## Apple Product Findings
+## Apple Product Findings:
 - Overall, the apple catalog has generated $14.2M in total revenue. Making up 50% of the overall revenue the business has generated.
 - Airpods account for $7.7M, Macbook Air for $6.2M and the Iphone for $0.2M.
 - In terms of refund rate, the higher the ticket the item, the more likely it will be returned. As we start seeing higher prices, the refund rate also begins to shoot up (5.45 (airpods) -> 7.64 (Iphone) -> 11.43 (Macbook)). This is due to customers having higher expectations for premium products making them more likely to return them when those expectations aren't met. 
@@ -127,10 +132,10 @@ insert visuals here
 <h1 align="center">  Insights and Recommendations </h1>
 
 
-## Future Tasks 
+## Future Tasks:
 - Further investigate the Q.4 sales anomaly in 2022. Decipher what caused this decline as this is historically our most prominent period. Investigate whether this was due to increased competition from other competitors, our marketing strategies not being effective, or if it was continued effect from the decrease of the online shopping boom from pandemic-driven shopping behavior.
 
-## Recommendations 
+## Recommendations:
 - Quarter 3 and Quarter 4 perform the best for us. During this period we need to increase marketing through ad spend and organic content. Also look into introducing back to school and holiday deals; (bundles, sales, student discounts, etc.). In parallel we should be pushing the loyalty program onto the increased customer arrival during these periods.
 
 - January is a sleeper month and often gets overlooked due to the decrease in spend that occurs right after, and the usual view that shopping is going to decrease as the winter holidays are coming to an end. However, January performs well for us and we should be taking advantage of the continued performance through marketing and deals. We need to keep our foot on the gas a little after Q.4 to get the most out of January that we can.
