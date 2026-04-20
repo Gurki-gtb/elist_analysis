@@ -133,7 +133,7 @@ INSERT VISUALS
 
 
 ## Future Tasks:
-- Further investigate the Q.4 sales anomaly in 2022. Decipher what caused this decline as this is historically our most prominent period. Investigate whether this was due to increased competition from other competitors, our marketing strategies not being effective, or if it was continued effect from the decrease of the online shopping boom from pandemic-driven shopping behavior.
+- Further investigate the Q.4 sales anomaly in 2022. Decipher what caused this decline as this is historically our most prominent period. Investigate whether this was due to increased competition, marketing strategies not being effective, or if it was continued effect from the decrease of the online shopping boom from pandemic-driven shopping behavior.
 
 ## Recommendations:
 - Quarter 3 and Quarter 4 perform the best for us. During this period we need to increase marketing through ad spend and organic content. Also look into introducing back to school and holiday deals; (bundles, sales, student discounts, etc.). In parallel we should be pushing the loyalty program onto the increased customer arrival during these periods.
