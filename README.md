@@ -32,7 +32,6 @@ insert visuals here
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
     
  ### 2019: Quarterly Basline:
 - 2019 serves as a baseline year, reflecting typical business performance, as there are no external disruptions such as the pandemic or post-pandemic effects.
@@ -66,7 +65,7 @@ insert visuals here
 </td>
 </tr>
 </table>
-</div>
+
 # Loyalty Program Performance 
 
 - For a company of our size the industry standard of loyalty program participation is 25-50% (https://www.alexanderjarvis.com/what-is-loyalty-program-participation-rate-in-ecommerce/). Positioning us in the upper range of industry benchmarks.
