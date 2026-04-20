@@ -30,7 +30,7 @@ insert visuals here
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
   
 ###    2019: Quarterly Basline:
 - 2019 serves as a baseline year, reflecting typical business performance, as there are no external disruptions such as the pandemic or post-pandemic effects.
@@ -46,7 +46,7 @@ insert visuals here
 
 </td>
 
-<td width="50%" valign="top">
+<td width="70%" valign="top">
   
 ###    2021: Normalization Period:
 - The momentum of 2020 carries over into early 2021 with Jan also generating $1M+.
