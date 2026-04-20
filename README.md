@@ -94,11 +94,10 @@ insert visuals here
 <h1 align="center">  Insights and Recommendations </h1>
 
 
-<h2 align="center">  Future Tasks </h2>
+## Future Tasks 
 - Further investigate the Q.4 sales anomaly in 2022. Decipher what caused this decline as this is historically our most prominent period. Investigate whether this was due to increased competition from other competitors, our marketing strategies not being effective, or if it was continued effect from the decrease of the online shopping boom from pandemic-driven shopping behavior.
 
-
-<h2 align="center"> Recommendations </h2>
+## Recommendations 
 - Quarter 3 and Quarter 4 perform the best for us. During this period we need to increase marketing through ad spend and organic content. Also look into introducing back to school and holiday deals; (bundles, sales, student discounts, etc.). In parallel we should be pushing the loyalty program onto the increased customer arrival during these periods.
 
 - January is a sleeper month and often gets overlooked due to the decrease in spend that occurs right after, and the usual view that shopping is going to decrease as the winter holidays are coming to an end. However, January performs well for us and we should be taking advantage of the continued performance through marketing and deals. We need to keep our foot on the gas a little after Q.4 to get the most out of January that we can.
