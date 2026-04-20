@@ -61,6 +61,7 @@ insert visuals here
 
 
 <h1 align="center">  Loyalty Program Performance </h1>
+<hr>
 
 - For a company of our size the industry standard of loyalty program participation is 25-50% (https://www.alexanderjarvis.com/what-is-loyalty-program-participation-rate-in-ecommerce/). Positioning us in the upper range of industry benchmarks.
 - Out of the 100k+ transactions since 2019, 42% were done by loyalty program users and 58% were done by non loyalty program customers. 
