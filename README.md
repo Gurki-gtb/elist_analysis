@@ -64,12 +64,15 @@ insert visuals here
 # Apple Health Product Performance 
 
 - Due to data limitations this analysis was only able to be conducted using data from 2019-2021.
-- As of 2022, there are 3 apple products in the catalog; Airpods, Iphone, and the Macbook Air. The Macbook Air is the most expensive product with an AOV of $1,588, followed by the Iphone with an AOV of $740, and then the airpods with an AOV of $160.
+- As of 2022, there are 3 apple products in the catalog; Airpods, Iphone, and the Macbook Air.
+- The Macbook Air is the most expensive product with an AOV of $1,588, followed by the Iphone with an AOV of $740, and then the airpods with an AOV of $160.
 - Combined order count of all three products is 52,654, and after refunded orders the total drops to 49,543 a -6% decrease. Of these orders the airpods account for 92%, the Macbook Air 7%, and the Iphone 0.54%.
-- Airpods are the top-selling product in the Apple catalog and the overall catalog, having an order count of 48,402 orders. It also has a refund rate of 5.45%, the lowest amongst all apple products.
-- The Macbook Air is the second-best selling product in the Apple Catalog, with 3,964 orders. It has the highest refund rate at 11.43%. However, over the years its refund rate has decreased substantially. In 2019 it held a refund rate of 18.31%, and in 2021 6.33% - a 12 percentage point decrease. 
-- Despite being an extremely popular product the Iphone doesn't perform. Its the lowest selling product in the apple catalog and the second-lowest selling product in the overall catalog. Its refund rate has decreased over the years, 10.87% (2019) -> 5.26% (2021). However, its order count is so low that it doesn't make much of an impact, suggesting efforts should be placed elsewhere.
-- Overall, the apple catalog has generated $14.2M in total revenue. Making up 50% of the overall revenue the business has generated. Airpods account for $7.7M, Macbook Air for $6.2M and the Iphone for $0.2M.
+- Airpods are the top-selling product, having an order count of 48,402 orders. It also has a refund rate of 5.45%, the lowest amongst all apple products.
+- The Macbook Air is the second-best selling product in the Apple Catalog, with 3,964 orders. It has the highest refund rate at 11.43%.
+- However, over the years its refund rate has decreased substantially. In 2019 it held a refund rate of 18.31%, and in 2021 6.33% - a 12 percentage point decrease. 
+- The Iphone is the lowest selling product in the apple catalog. Its refund rate has decreased over the years, 10.87% (2019) -> 5.26% (2021). However, its order count is so low that it doesn't make much of an impact, suggesting efforts should be placed elsewhere.
+- Overall, the apple catalog has generated $14.2M in total revenue. Making up 50% of the overall revenue the business has generated.
+- Airpods account for $7.7M, Macbook Air for $6.2M and the Iphone for $0.2M.
 - In terms of refund rate, the higher the ticket the item, the more likely it will be returned. As we start seeing higher prices, the refund rate also begins to shoot up (5.45 (airpods) -> 7.64 (Iphone) -> 11.43 (Macbook)). This is due to customers having higher expectations for premium products making them more likely to return them when those expectations aren't met. 
 - The Iphone should be removed or replaced in the catalog. There is no real customer demand for this product from us and focusing this effort towards introducing a new apple product would be beneficial.
   
