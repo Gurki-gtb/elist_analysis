@@ -8,7 +8,7 @@ End to end sales trend analysis for E-commerce company.
 
 
 
-# Executive Summary
+<h1 align="center">  Executive Summary </h1>
 
 insert visuals here 
 
@@ -59,7 +59,8 @@ insert visuals here
 </tr>
 </table>
 
-# Loyalty Program Performance 
+
+<h1 align="center">  Loyalty Program Performance </h1>
 
 - For a company of our size the industry standard of loyalty program participation is 25-50% (https://www.alexanderjarvis.com/what-is-loyalty-program-participation-rate-in-ecommerce/). Positioning us in the upper range of industry benchmarks.
 - Out of the 100k+ transactions since 2019, 42% were done by loyalty program users and 58% were done by non loyalty program customers. 
@@ -69,7 +70,8 @@ insert visuals here
 - The non loyalty program was outperformed in units sold and revenue generated in 2021 and by AOV, units sold, and revenue generated in 2022.
 - Overall, the loyalty program was able to hold onto and sustain some of the growth from the pandemic-boom, whereas the non loyalty program saw a hard decline. The loyalty program is showing strong potential for long term growth and despite its slow start has proven it’s a valuable asset for long terms gains in the company.
   
-# Apple Health Product Performance 
+
+<h1 align="center">  Apple Health Product Performance </h1>
 
 - Due to data limitations this analysis was only able to be conducted using data from 2019-2021.
 - As of 2022, there are 3 apple products in the catalog; Airpods, Iphone, and the Macbook Air.
@@ -85,12 +87,15 @@ insert visuals here
 - In terms of refund rate, the higher the ticket the item, the more likely it will be returned. As we start seeing higher prices, the refund rate also begins to shoot up (5.45 (airpods) -> 7.64 (Iphone) -> 11.43 (Macbook)). This is due to customers having higher expectations for premium products making them more likely to return them when those expectations aren't met. 
 - The Iphone should be removed or replaced in the catalog. There is no real customer demand for this product from us and focusing this effort towards introducing a new apple product would be beneficial.
   
-# Insights and Recommendations 
 
-## Future Tasks
+<h1 align="center">  Insights and Recommendations </h1>
+
+
+<h2 align="center">  Future Tasks </h2>
 - Further investigate the Q.4 sales anomaly in 2022. Decipher what caused this decline as this is historically our most prominent period. Investigate whether this was due to increased competition from other competitors, our marketing strategies not being effective, or if it was continued effect from the decrease of the online shopping boom from pandemic-driven shopping behavior.
 
-## Recommendations
+
+<h2 align="center"> Recommendations </h2>
 - Quarter 3 and Quarter 4 perform the best for us. During this period we need to increase marketing through ad spend and organic content. Also look into introducing back to school and holiday deals; (bundles, sales, student discounts, etc.). In parallel we should be pushing the loyalty program onto the increased customer arrival during these periods.
 
 - January is a sleeper month and often gets overlooked due to the decrease in spend that occurs right after, and the usual view that shopping is going to decrease as the winter holidays are coming to an end. However, January performs well for us and we should be taking advantage of the continued performance through marketing and deals. We need to keep our foot on the gas a little after Q.4 to get the most out of January that we can.
