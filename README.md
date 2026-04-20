@@ -65,6 +65,7 @@ insert visuals here
 
 - For a company of our size the industry standard of loyalty program participation is 25-50% (https://www.alexanderjarvis.com/what-is-loyalty-program-participation-rate-in-ecommerce/). Positioning us in the upper range of industry benchmarks.
 <hr>
+
 - Out of the 100k+ transactions since 2019, 42% were done by loyalty program users and 58% were done by non loyalty program customers. 
 - Initial adoption for the loyalty program was very slow, with a total of 2005 orders and $0.4M in revenue.  
 - Revenue grew from $0.4M in 2019 to $2.7M in 2022, AOV also increased by 18% ($207 -> $244). On the other hand, the non loyalty program saw a -8% decrease in AOV and revenue dropped from $3.4M in 2019 to $2.2M in 2022.
