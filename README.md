@@ -82,7 +82,8 @@ insert visuals here
 ## Overall:
 
 - The non loyalty program was outperformed in units sold and revenue generated in 2021 and by AOV, units sold, and revenue generated in 2022.
-- Overall, the loyalty program was able to hold onto and sustain some of the growth from the pandemic-boom, whereas the non loyalty program saw a hard decline. The loyalty program is showing strong potential for long term growth and despite its slow start has proven it’s a valuable asset for long terms gains in the company.
+- The loyalty program was able to hold onto and sustain some of the growth from the pandemic-boom, whereas the non loyalty program saw a hard decline.
+- The loyalty program is showing strong potential for long term growth and despite its slow start has proven it’s a valuable asset for long terms gains in the company.
 
 </td>
 
