@@ -27,6 +27,10 @@ insert visuals here
 
 - Early 2022 we see similar performance to 2021 which is short-lived and post-pandemic shopping behavior causes a substantial decrease in units sold and AOV. With a total 21,565 orders (-39%), AOV of $229 (-9.8%) comapred to 2021, and Q4 recording the lowest quarter performance to date.
 
+
+<table>
+<tr>
+<td width="50%" valign="top">
 ## 2019: Quarterly Basline:
 - 2019 serves as a baseline year, reflecting typical business performance, as there are no external disruptions such as the pandemic or post-pandemic effects.
 - Q1 and Q2 we see consistent performance ($246K-$362K), with no significant spikes in sales.
@@ -38,6 +42,10 @@ insert visuals here
 - Sept and Dec both generate $1M+ (pandemic and seasonal increase).
 - 100.8% increase in average units sold (1,404 -> 2,820), 30% increase in AOV ($229 -> $300), and a 162% increase in average monthly revenue ($322K -> $845k).
 - The continuous upwards trend throughout the year resulted in a total of $10.1M, a record breaking year.
+
+</td>
+
+<td width="50%" valign="top">
 ## 2021: Normalization Period:
 - The momentum of 2020 carries over into early 2021 with Jan also generating $1M+.
 - In the following months a significant drop occurs. Revenue range falls between $640K - $760K.
@@ -50,6 +58,10 @@ insert visuals here
 - In Q.4 (typically the most successful period) we see our weakest quarter to date in terms of units sold, AOV, and revenue. 
 - Comapred to 2021 average monthly revenue decreases -45% ($758K-> $408K), AOV decreases -9.8% ($254->$229).
 - An overall -46% decrease in total revenue ($9.1M -> $4.9M).
+
+</td>
+</tr>
+</table>
 
 # Loyalty Program Performance 
 
