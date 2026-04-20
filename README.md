@@ -31,8 +31,10 @@ insert visuals here
 <table>
 <tr>
 <td width="50%" valign="top">
-  
-###    2019: Quarterly Basline:
+
+  <div align="center">
+ ###    2019: Quarterly Basline:
+    </div>
 - 2019 serves as a baseline year, reflecting typical business performance, as there are no external disruptions such as the pandemic or post-pandemic effects.
 - Q1 and Q2 we see consistent performance ($246K-$362K), with no significant spikes in sales.
 - In Q3 (back to school season), AOV and order count begin to increase. Increasing monthly revenue range to ($318K-$372K).
