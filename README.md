@@ -95,9 +95,13 @@ insert visuals here
 
 - Due to data limitations this analysis was only able to be conducted using data from 2019-2021.
 - As of 2022, there are 3 apple products in the catalog; Airpods, Iphone, and the Macbook Air.
+<hr>
 
-<div style="border: 1px solid #30363d; padding: 16px; border-radius: 6px;">
+<table>
+<tr>
 
+<td width="50%" valign="top">
+    
 - The Macbook Air is the most expensive product with an AOV of $1,588, followed by the Iphone with an AOV of $740, and then the airpods with an AOV of $160.
 - Combined order count of all three products is 52,654, and after refunded orders the total drops to 49,543 a -6% decrease. Of these orders the airpods account for 92%, the Macbook Air 7%, and the Iphone 0.54%.
 - Airpods are the top-selling product, having an order count of 48,402 orders. It also has a refund rate of 5.45%, the lowest amongst all apple products.
@@ -105,7 +109,10 @@ insert visuals here
 - However, over the years its refund rate has decreased substantially. In 2019 it held a refund rate of 18.31%, and in 2021 6.33% - a 12 percentage point decrease. 
 - The Iphone is the lowest selling product in the apple catalog. Its refund rate has decreased over the years, 10.87% (2019) -> 5.26% (2021). However, its order count is so low that it doesn't make much of an impact.
   
-</div>
+</td>
+
+</tr>
+</table>
 
 ## Apple Product Findings
 - Overall, the apple catalog has generated $14.2M in total revenue. Making up 50% of the overall revenue the business has generated.
