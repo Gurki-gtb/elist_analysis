@@ -20,16 +20,6 @@ insert visuals here
 
 <h1 align="center"> Yearly / Quarterly Sales Trends </h1>
 
-<h2 align = "center"> Overview: </h2>
-
-- In 2019, there was 16,850 orders with an (AOV) of $229, generating ~$3.8M. Due to pandemic-related shifts in consumer behavior, 2020 generated $10.1M and 2021 generated $9.1M. 
-
-- 2020 and 2021 both more than 2X the units sold (33,851 | 35,858) compared to 2019, with AOV increasing +31% ($300) in 2020, and +10.9% ($254) in 2021. AOV and units sold consistently increasing throughout 2020.
-
-- 2021 sold ~ 2000 more units than  2020, but due to a decrease in AOV revenue was ~$1M less than in 2020. 2021 is also where the initial pandemic-boom starts to taper off with units sold and AOV both gradually decreasing.
-
-- Early 2022 we see similar performance to 2021 which is short-lived and post-pandemic shopping behavior causes a substantial decrease in units sold and AOV. With a total 21,565 orders (-39%), AOV of $229 (-9.8%) comapred to 2021, and Q4 recording the lowest quarter performance to date.
-
 
 <table>
 <tr>
