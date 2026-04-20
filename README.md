@@ -110,16 +110,18 @@ insert visuals here
 - However, over the years its refund rate has decreased substantially. In 2019 it held a refund rate of 18.31%, and in 2021 6.33% - a 12 percentage point decrease. 
 - The Iphone is the lowest selling product in the apple catalog. Its refund rate has decreased over the years, 10.87% (2019) -> 5.26% (2021). However, its order count is so low that it doesn't make much of an impact.
   
-</td>
 
-</tr>
-</table>
 
 ## Apple Product Findings
 - Overall, the apple catalog has generated $14.2M in total revenue. Making up 50% of the overall revenue the business has generated.
 - Airpods account for $7.7M, Macbook Air for $6.2M and the Iphone for $0.2M.
 - In terms of refund rate, the higher the ticket the item, the more likely it will be returned. As we start seeing higher prices, the refund rate also begins to shoot up (5.45 (airpods) -> 7.64 (Iphone) -> 11.43 (Macbook)). This is due to customers having higher expectations for premium products making them more likely to return them when those expectations aren't met. 
 - The Iphone should be removed or replaced in the catalog. There is no real customer demand for this product from us and focusing this effort towards introducing a new apple product would be beneficial.
+
+</td>
+
+</tr>
+</table>
   
 
 <h1 align="center">  Insights and Recommendations </h1>
