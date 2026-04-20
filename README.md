@@ -32,12 +32,12 @@ insert visuals here
 <tr>
 <td width="50%" valign="top">
   
-## 2019: Quarterly Basline:
+###    2019: Quarterly Basline:
 - 2019 serves as a baseline year, reflecting typical business performance, as there are no external disruptions such as the pandemic or post-pandemic effects.
 - Q1 and Q2 we see consistent performance ($246K-$362K), with no significant spikes in sales.
 - In Q3 (back to school season), AOV and order count begin to increase. Increasing monthly revenue range to ($318K-$372K).
 - Q4  AOV and order count peak, resulting in a revenue range of ($305K-$458K).
-## 2020: Covid - Driven Inflection Point:
+###    2020: Covid - Driven Inflection Point:
 - Q1 follows the usual e-commerce flow with units sold dropping (post-holiday).
 - March (pandemic hits) and quarter to quarter a continuous upwards trends occurs in AOV, order count, and revenue.
 - Sept and Dec both generate $1M+ (pandemic and seasonal increase).
@@ -48,13 +48,13 @@ insert visuals here
 
 <td width="50%" valign="top">
   
-## 2021: Normalization Period:
+###    2021: Normalization Period:
 - The momentum of 2020 carries over into early 2021 with Jan also generating $1M+.
 - In the following months a significant drop occurs. Revenue range falls between $640K - $760K.
 - Sept and Dec surpass $800K due to a surge in units sold.
 - 2021 outsold 2020 by ~2,000 units. Despite that, less revenue was generated due to a -15.33% decrease in AOV ($254).
 - Overall, 2021 generated $9.1M, a -10% decrease from 2020. 
-## 2022: Post - Pandemic Decline and Weak Q.4 Performance:
+###    2022: Post - Pandemic Decline and Weak Q.4 Performance:
 - Again, the momentum carries over and Jan performs strongly ($700K).
 - However, revenue drops by $232K in Feb, and from here the monthly revenue range falls into a range of ($397K - $509K).
 - In Q.4 (typically the most successful period) we see our weakest quarter to date in terms of units sold, AOV, and revenue. 
