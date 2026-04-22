@@ -29,9 +29,9 @@ INSERT VISUALS
     
  ### 2019: Quarterly Basline:
 - 2019 serves as a baseline year, reflecting typical business performance, as there are no external disruptions such as the pandemic or post-pandemic effects.
-- Q1 and Q2 we see consistent performance ($246K-$362K), with no significant spikes in sales.
+- Q1 and Q2 we see consistent monthly performance ($246K-$362K), with no significant spikes in sales.
 - In Q3 (back to school season), AOV and order count begin to increase. Increasing monthly revenue range to ($318K-$372K).
-- Q4  AOV and order count peak, resulting in a revenue range of ($305K-$458K).
+- Q4  AOV and order count peak, resulting in a monthly revenue range of ($305K-$458K).
 ### 2020: Covid - Driven Inflection Point:
 - Q1 follows the usual e-commerce flow with units sold dropping (post-holiday).
 - March (pandemic hits) and quarter to quarter a continuous upwards trends occurs in AOV, order count, and revenue.
