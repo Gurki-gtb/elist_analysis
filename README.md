@@ -8,21 +8,21 @@ End to end sales trend analysis for E-commerce company.
 
 
 
-<div style="display: flex; gap: 16px; align-items: flex-start;">
-
-  <!-- LEFT -->
-  <div style="width: 55%;">
-    <img src="assets/Exec_Viz_1.png" width="100%">
-  </div>
-
-  <!-- RIGHT -->
-  <div style="width: 45%;">
-    <img src="assets/Exec_Viz_2.png" width="100%">
-    <br><br>
-    <img src="assets/Exec_Viz_3.png" width="100%">
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td width="60%" rowspan="2" valign="top">
+      <img src="assets/Exec_Viz_1.png" width="100%">
+    </td>
+    <td width="40%" valign="top">
+      <img src="assets/Exec_Viz_2.png" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" valign="top">
+      <img src="assets/Exec_Viz_3.png" width="100%">
+    </td>
+  </tr>
+</table>
 
 - Revenue more than doubled during the pandemic, growing from $3.8M (2019) to $10.1M (2020) and $9.1M (2021), driven by increases in both AOV and order count.
 - Revenue declined -46% down to $4.9M, as consumer behavior normalized. Q4 experienced an abnormal drop in performance despite historically strong holiday performance.
