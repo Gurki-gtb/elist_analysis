@@ -8,22 +8,18 @@ End to end sales trend analysis for E-commerce company.
 
 
 
-<h1 align="center">  Executive Summary </h1>
-
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 16px; align-items: flex-start;">
 
   <!-- LEFT -->
-  <div style="flex: 1;">
-    <img src="Exec_Viz_1.png" width="100%" />
+  <div style="width: 55%;">
+    <img src="assets/Exec_Viz_1.png" width="100%">
   </div>
 
   <!-- RIGHT -->
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 20px;">
-
-   <img src="Exec_Viz_2.png" width="100%" />
-
-   <img src="Exec_Viz_3.png" width="100%" />
-
+  <div style="width: 45%;">
+    <img src="assets/Exec_Viz_2.png" width="100%">
+    <br><br>
+    <img src="assets/Exec_Viz_3.png" width="100%">
   </div>
 
 </div>
