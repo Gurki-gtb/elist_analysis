@@ -6,7 +6,7 @@ End to end sales trend analysis for E-commerce company.
 
 
 
-# Executive Summary
+<h1 align="center"> Executive Summary </h1>
 <table>
   <tr>
     <td width="62%">
