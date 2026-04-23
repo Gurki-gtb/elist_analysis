@@ -13,6 +13,8 @@ End to end sales trend analysis for E-commerce company.
       <img src="assets/Exec_Viz_1.png" width="100%">
     </td>
     <td width="38%" valign="middle">
+
+      
 - Revenue more than doubled during the pandemic, growing from $3.8M (2019) to $10.1M (2020) and $9.1M (2021), driven by increases in both AOV and order count.
 
 - Revenue declined -46% down to $4.9M, as consumer behavior normalized. Q4 experienced an abnormal drop in performance despite historically strong holiday performance.
