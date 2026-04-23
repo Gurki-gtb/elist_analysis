@@ -4,43 +4,55 @@ End to end sales trend analysis for E-commerce company.
 
 
 
+<h1 align="center">Executive Summary</h1>
 
-
-<h1 align="center"> Executive Summary </h1>
-<table>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
   <tr>
-    <td width="62%">
+    <td width="62%" valign="top">
       <img src="assets/Exec_Viz_1.png" width="100%">
     </td>
-    <td width="38%" valign="middle">
+    <td width="38%" valign="top" style="padding-left: 20px;">
 
-      
-- Revenue more than doubled during the pandemic, growing from $3.8M (2019) to $10.1M (2020) and $9.1M (2021), driven by increases in both AOV and order count.
+      <ul style="margin: 0; padding-left: 18px; line-height: 1.5;">
+        <li style="margin-bottom: 10px;">
+          Revenue more than doubled during the pandemic, growing from $3.8M (2019) to $10.1M (2020) and $9.1M (2021), driven by increases in both AOV and order count.
+        </li>
+        <li>
+          Revenue declined -46% to $4.9M as consumer behavior normalized. Q4 experienced an abnormal drop despite historically strong holiday performance.
+        </li>
+      </ul>
 
-- Revenue declined -46% down to $4.9M, as consumer behavior normalized. Q4 experienced an abnormal drop in performance despite historically strong holiday performance.
-     </td>
-  </tr>
-
-   <tr>
-    <td width="62%">
-      <img src="assets/Exec_Viz_2.png" width="100%">
     </td>
-    <td width="38%" valign="middle">
-
-    
-- Loyalty program grew from $0.4M to $2.7M, (2019-2022), with a +18% increase in AOV. Outperforming the non-loyalty program in revenue in both 2021 and 2022. 
-        </td>
   </tr>
 
   <tr>
-    <td width="62%">
+    <td width="62%" valign="top" style="padding-top: 16px;">
+      <img src="assets/Exec_Viz_2.png" width="100%">
+    </td>
+    <td width="38%" valign="middle" style="padding-left: 20px;">
+
+      <ul style="margin: 0; padding-left: 18px; line-height: 1.5;">
+        <li>
+          Loyalty program grew from $0.4M to $2.7M (2019–2022), with a +18% increase in AOV, outperforming the non-loyalty program in revenue in both 2021 and 2022.
+        </li>
+      </ul>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="62%" valign="top" style="padding-top: 16px;">
       <img src="assets/Exec_Viz_3.png" width="100%">
     </td>
-    <td width="38%" valign="middle">
+    <td width="38%" valign="middle" style="padding-left: 20px;">
 
-    
-- Apple products make up ~50% of the company's revenue, but the iPhone makes up < 1% of sales, indicating weak validation for further allocation in the catalog.   
-</td>
+      <ul style="margin: 0; padding-left: 18px; line-height: 1.5;">
+        <li>
+          Apple products account for ~50% of revenue, but the iPhone contributes <1% of sales, indicating weak validation for further catalog allocation.
+        </li>
+      </ul>
+
+    </td>
   </tr>
 </table>
 
