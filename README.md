@@ -7,27 +7,35 @@ End to end sales trend analysis for E-commerce company.
 
 
 
-
 <table>
   <tr>
-    <td width="60%" rowspan="2" valign="top">
+    <td width="62%">
       <img src="assets/Exec_Viz_1.png" width="100%">
     </td>
-    <td width="40%" valign="top">
-      <img src="assets/Exec_Viz_2.png" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td width="40%" valign="top">
-      <img src="assets/Exec_Viz_3.png" width="100%">
-    </td>
-  </tr>
-</table>
-
+    <td width="38%" valign="middle">
 - Revenue more than doubled during the pandemic, growing from $3.8M (2019) to $10.1M (2020) and $9.1M (2021), driven by increases in both AOV and order count.
 - Revenue declined -46% down to $4.9M, as consumer behavior normalized. Q4 experienced an abnormal drop in performance despite historically strong holiday performance.
+     </td>
+  </tr>
+
+   <tr>
+    <td width="62%">
+      <img src="assets/Exec_Viz_2.png" width="100%">
+    </td>
+    <td width="38%" valign="middle">
 - Loyalty program grew from $0.4M to $2.7M, (2019-2022), with a +18% increase in AOV. Outperforming the non-loyalty program in revenue in both 2021 and 2022. 
-- Apple products make up ~50% of the company's revenue, but the iPhone makes up < 1% of sales, indicating weak validation for further allocation in the catalog.        
+        </td>
+  </tr>
+
+  <tr>
+    <td width="62%">
+      <img src="assets/Exec_Viz_3.png" width="100%">
+    </td>
+    <td width="38%" valign="middle">
+- Apple products make up ~50% of the company's revenue, but the iPhone makes up < 1% of sales, indicating weak validation for further allocation in the catalog.   
+</td>
+  </tr>
+</table>
 
 
 <h1 align="center"> Yearly / Quarterly Sales Trends </h1>
