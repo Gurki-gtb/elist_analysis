@@ -60,7 +60,7 @@ End to end sales trend analysis for E-commerce company.
 <h1 align="center"> Yearly / Quarterly Sales Trends </h1>
 
 <p align="center">
-  <img src="assets/y_q_performance.png" width="75%">
+  <img src="assets/y_q_performance.png" width="100%">
 </p>
 
 <table>
@@ -111,7 +111,7 @@ End to end sales trend analysis for E-commerce company.
 <hr>
 
 <p align="center">
-  <img src="assets/loyalty_vs_nonloyalty.png" width="75%">
+  <img src="assets/loyalty_vs_nonloyalty.png" width="100%">
 </p>
 
 <table>
@@ -145,7 +145,7 @@ End to end sales trend analysis for E-commerce company.
 <hr>
 
 <p align="center">
-  <img src="assets/apple_product_performance.png" width="75%">
+  <img src="assets/apple_product_performance.png" width="100%">
 </p>
 
 <table>
