@@ -2,9 +2,18 @@
   <img src="assets/vexon_logo_final.png" width="100%">
 </p>
 
-End to end sales trend analysis for E-commerce company. 
+<h2 align = "center"> Client Background </h2>
 
+Vexon is an a e-commerce company based in the U.S. that sells a variety of tech products and accessories. Launched in 2018, Vexon has expanded to a global customer base, and has since faced a unique set of circumstances brought on by the COVID-19 pandemic and increased competition. 
 
+As of 2023, Vexon has processed over 100,000 transactions and has generated ~$28M in revenue. 
+
+This analysis was conducted in response to a brief from the head of operations, to deliver insights across the company, including finance, sales, and product. The scope of this analysis was set to 2019-2022. The insights and recommendations are based around the following:
+
+<h3 > NorthStar Metrics: </h3>
+- Sales Trends (Monthly and Yearly): Average Order Value (AOV), Order Count, Sales Revenue 
+- Loyalty Program: AOV, Order Count, Sales Revenue
+- Product Performance (Apple): Refunds/Refund Rate, AOV, Order Count, Sales Revenue 
 
 
 <h1 align="center">Executive Summary</h1>
