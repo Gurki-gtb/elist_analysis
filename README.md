@@ -8,16 +8,13 @@ End to end sales trend analysis for E-commerce company.
 
 
 <h1 align="center">Executive Summary</h1>
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-
-  <tr>
-    <td width="62%" valign="top">
+  <tr style="border: none;">
+    <td width="62%" valign="top" style="border: none;">
       <img src="assets/Exec_Viz_1.png" width="100%">
     </td>
-    <td width="38%" valign="top" style="padding-left: 20px;">
-
-  <ul style="margin: 0; padding-left: 18px; line-height: 1.5;">
+    <td width="38%" valign="top" style="padding-left: 20px; border: none;">
+      <ul style="margin: 0; padding-left: 18px; line-height: 1.5;">
         <li style="margin-bottom: 10px;">
           Revenue more than doubled during the pandemic, growing from $3.8M (2019) to $10.1M (2020) and $9.1M (2021), driven by increases in both AOV and order count.
         </li>
@@ -25,38 +22,31 @@ End to end sales trend analysis for E-commerce company.
           Revenue declined -46% to $4.9M as consumer behavior normalized. Q4 experienced an abnormal drop despite historically strong holiday performance.
         </li>
       </ul>
-
-  </td>
+    </td>
   </tr>
-
-  <tr>
-    <td width="62%" valign="top">
+  <tr style="border: none;">
+    <td width="62%" valign="top" style="border: none;">
       <img src="assets/Exec_Viz_2_2.png" width="100%">
     </td>
-    <td width="38%" valign="middle" style="padding-left: 20px;">
-
-  <ul style="margin: 0; padding-left: 18px; line-height: 1.5;">
+    <td width="38%" valign="middle" style="padding-left: 20px; border: none;">
+      <ul style="margin: 0; padding-left: 18px; line-height: 1.5;">
         <li>
           Loyalty program grew from $0.4M to $2.7M (2019–2022), with a +18% increase in AOV, outperforming the non-loyalty program in revenue in both 2021 and 2022.
         </li>
       </ul>
-
-  </td>
+    </td>
   </tr>
-
-  <tr>
-    <td width="62%" valign="top">
+  <tr style="border: none;">
+    <td width="62%" valign="top" style="border: none;">
       <img src="assets/Exec_Viz_3.png" width="100%">
     </td>
-    <td width="38%" valign="middle" style="padding-left: 20px;">
-
-  <ul style="margin: 0; padding-left: 18px; line-height: 1.5;">
+    <td width="38%" valign="middle" style="padding-left: 20px; border: none;">
+      <ul style="margin: 0; padding-left: 18px; line-height: 1.5;">
         <li>
           Apple products account for ~50% of revenue, but the iPhone contributes <1% of sales, indicating weak validation for further catalog allocation.
         </li>
       </ul>
-
-  </td>
+    </td>
   </tr>
 </table>
 
