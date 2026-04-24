@@ -9,7 +9,8 @@ End to end sales trend analysis for E-commerce company.
 
 <h1 align="center">Executive Summary</h1>
 
-<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+
   <tr>
     <td width="62%" valign="top">
       <img src="assets/Exec_Viz_1.png" width="100%">
