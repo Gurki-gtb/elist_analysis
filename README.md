@@ -11,6 +11,7 @@ As of 2023, Vexon has processed over 100,000 transactions and has generated ~$28
 This analysis was conducted in response to a brief from the head of operations, to deliver insights across the company, including finance, sales, and product. The scope of this analysis was set to 2019-2022. The insights and recommendations are based around the following:
 
 <h3 > NorthStar Metrics: </h3>
+
 - Sales Trends (Monthly and Yearly): Average Order Value (AOV), Order Count, Sales Revenue 
 
 - Loyalty Program: AOV, Order Count, Sales Revenue
