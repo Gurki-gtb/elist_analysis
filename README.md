@@ -2,21 +2,31 @@
   <img src="assets/vexon_logo_final.png" width="100%">
 </p>
 
-<h2 align = "center"> Client Background </h2>
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
 
-Vexon is an a e-commerce company based in the U.S. that sells a variety of tech products and accessories. Launched in 2018, Vexon has expanded to a global customer base, and has since faced a unique set of circumstances brought on by the COVID-19 pandemic and increased competition. 
+<h2>Client Background</h2>
 
-As of 2023, Vexon has processed over 100,000 transactions and has generated ~$28M in revenue. 
+<p>
+Vexon is an e-commerce company based in the U.S. that sells a variety of tech products and accessories...
+</p>
 
-This analysis was conducted in response to a brief from the head of operations, to deliver insights across the company, including finance, sales, and product. The scope of this analysis was set to 2019-2022. The insights and recommendations are based around the following:
+<p>
+As of 2023, Vexon has processed over 100,000 transactions and has generated ~$28M in revenue.
+</p>
 
-<h3 > NorthStar Metrics: </h3>
+<p>
+This analysis was conducted in response to a brief from the head of operations...
+</p>
 
-- Sales Trends (Monthly and Yearly): Average Order Value (AOV), Order Count, Sales Revenue 
+<h3>NorthStar Metrics:</h3>
 
-- Loyalty Program: AOV, Order Count, Sales Revenue
+<ul>
+  <li>Sales Trends (Monthly and Yearly): AOV, Order Count, Sales Revenue</li>
+  <li>Loyalty Program: AOV, Order Count, Sales Revenue</li>
+  <li>Product Performance (Apple): Refunds/Refund Rate, AOV, Order Count, Sales Revenue</li>
+</ul>
 
-- Product Performance (Apple): Refunds/Refund Rate, AOV, Order Count, Sales Revenue 
+</div>
 
 
 <h1 align="center">Executive Summary</h1>
