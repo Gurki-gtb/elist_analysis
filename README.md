@@ -1,4 +1,7 @@
-# elist_analysis
+<p align="center">
+  <img src="assets/vexon_logo_final.png" width="100%">
+</p>
+
 End to end sales trend analysis for E-commerce company. 
 
 
