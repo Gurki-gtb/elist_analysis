@@ -10,7 +10,7 @@
 
 Vexon is an e-commerce company based in the U.S. that sells a variety of tech products and accessories. Launched in 2018, Vexon has expanded to a global customer base, and has since faced a unique set of circumstances brought on by the COVID-19 pandemic and increased competition. 
 
-As of 2023, Vexon has processed over 100,000 transactions and has generated ~$28M in revenue. This analysis was conducted in response to a brief from the head of operations.
+As of 2023, Vexon has processed over 100,000 transactions and has generated ~$28M in revenue. 
 
 This analysis was conducted in response to a brief from the head of operations, to deliver insights across the company, including finances, sales and product. The scope of this analysis was set to 2019-2022, with the insights and recommendations being based around the following:
 
