@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/vexon_logo_final.png" width="100%">
+  <img src="assets/vexon_logo_final.png" width="70%">
 </p>
 
 <table>
