@@ -12,7 +12,9 @@ This analysis was conducted in response to a brief from the head of operations, 
 
 <h3 > NorthStar Metrics: </h3>
 - Sales Trends (Monthly and Yearly): Average Order Value (AOV), Order Count, Sales Revenue 
+
 - Loyalty Program: AOV, Order Count, Sales Revenue
+
 - Product Performance (Apple): Refunds/Refund Rate, AOV, Order Count, Sales Revenue 
 
 
