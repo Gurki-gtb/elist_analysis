@@ -26,7 +26,7 @@ End to end sales trend analysis for E-commerce company.
   </tr>
   <tr style="border: none;">
     <td width="62%" valign="top" style="border: none;">
-      <img src="assets/Exec_Viz_2.png" width="180%">
+      <img src="assets/Exec_Viz_2.png" width="100%">
     </td>
     <td width="38%" valign="middle" style="padding-left: 20px; border: none;">
       <ul style="margin: 0; padding-left: 18px; line-height: 1.5;">
