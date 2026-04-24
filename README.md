@@ -25,6 +25,9 @@ This analysis was conducted in response to a brief from the head of operations, 
 
 
 </td>
+</tr>
+</table>
+
 
 <h1 align="center">Executive Summary</h1>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
