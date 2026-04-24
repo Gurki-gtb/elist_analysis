@@ -59,8 +59,10 @@ End to end sales trend analysis for E-commerce company.
 
 <h1 align="center"> Yearly / Quarterly Sales Trends </h1>
 
-INSERT VISUALS
- 
+<p align="center">
+  <img src="assets/y_q_performance.png" width="75%">
+</p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -103,11 +105,14 @@ INSERT VISUALS
 <h1 align="center">  Loyalty Program Performance </h1>
 
 
+
 - For a company of our size the industry standard of loyalty program participation is 25-50% (https://www.alexanderjarvis.com/what-is-loyalty-program-participation-rate-in-ecommerce/).
 - Positioning us in the upper range of industry benchmarks.
 <hr>
 
-INSERT VISUALS
+<p align="center">
+  <img src="assets/loyalty_vs_nonloyalty.png" width="75%">
+</p>
 
 <table>
 <tr>
@@ -139,7 +144,9 @@ INSERT VISUALS
 - As of 2022, there are 3 apple products in the catalog; Airpods, Iphone, and the Macbook Air.
 <hr>
 
-INSERT VISUALS
+<p align="center">
+  <img src="assets/apple_product_performance.png" width="75%">
+</p>
 
 <table>
 <tr>
