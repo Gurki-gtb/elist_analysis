@@ -29,6 +29,7 @@ This analysis was conducted in response to a brief from the head of operations, 
 </table>
 
 <h1 align = "center"> ERD (Data Structure) </h1>
+<hr>
 
 <p align="center">
 <img width="505" height="437" alt="image" src="https://github.com/user-attachments/assets/5ae91dc5-0b07-46c0-8445-1838ffbd958a" />
