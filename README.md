@@ -55,8 +55,9 @@ This analysis was conducted in response to a brief from the head of operations, 
   </tr>
   <tr style="border: none;">
     <td width="62%" valign="top" style="border: none;">
-      <img src="assets/Exec_Viz_2.png" width="100%">
-    </td>
+    <img src="https://github.com/user-attachments/assets/35573eb8-5a9f-414f-b54a-9c1c8424e8bc" width = "100%">
+
+  </td>
     <td width="38%" valign="middle" style="padding-left: 20px; border: none;">
       <ul style="margin: 0; padding-left: 18px; line-height: 1.5;">
         <li>
