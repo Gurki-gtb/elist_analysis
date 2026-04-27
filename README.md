@@ -99,7 +99,6 @@ This analysis was conducted in response to a brief from the head of operations, 
 - **Q4** AOV and order count peak, resulting in a monthly revenue range of (**$305K–$458K**).
 
 ### 2020: Covid-Driven Inflection Point:
-- **Q1** follows the usual e-commerce flow with units sold dropping (post-holiday).
 - **March** (pandemic hits) and quarter to quarter a continuous upwards trend occurs in AOV, order count, and revenue.
 - **Sept** and **Dec** both generate **$1M+** (pandemic and seasonal increase).
 - **100.8% increase** in average units sold (**1,404 -> 2,820**), **30% increase** in AOV (**$229 -> $300**), and a **162% increase** in average monthly revenue (**$322K -> $845K**).
